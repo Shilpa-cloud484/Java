@@ -5,7 +5,7 @@ public class CrossPattern {
     {
         int i,j;
         int n=11;
-        for (i=0; i<n; i++)git config --list
+        for (i=0; i<n; i++)
         
         {
             for (j=0; j<n; j++)
